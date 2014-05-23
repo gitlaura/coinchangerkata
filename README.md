@@ -6,6 +6,10 @@ If you need change, this coin changer will make sure you get the most efficient 
 
 This was written to practice TDD with Ruby and Rspec. 
 
+To see that it passes a variety of tests, type this into the command line:
+
+    rspec coin_changer_spec.rb
+
 
 ## About
 Created by [@getLaura][1] as an exercise for [8th Light][2]'s Student Apprentice program. 
